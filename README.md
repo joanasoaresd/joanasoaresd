@@ -5,6 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=joanasoaresd&color=ff69b4)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joanasoaresd" alt="joanasoaresd"/> </p>
 
 Here are some ideas to get you started:
 
